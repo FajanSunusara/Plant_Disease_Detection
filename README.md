@@ -79,6 +79,8 @@ The model used in this project is a Convolutional Neural Network (CNN) built usi
 
 A Convolutional Neural Network (CNN) is a type of deep learning model specifically designed for analyzing visual data. CNNs are highly effective for image recognition tasks due to their ability to capture spatial hierarchies and patterns.
 
+![cnn](https://github.com/FajanSunusara/Plant_Disease_Detection_Model/assets/49346372/38d4aa23-8607-4937-8510-d473ff3154f3)
+
 ### CNN Architecture
 
 1. **Convolutional Layers**
