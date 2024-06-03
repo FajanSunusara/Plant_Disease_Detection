@@ -1,6 +1,5 @@
 # Plant Disease Detection Model
 
-![Plant Disease Detection](https://via.placeholder.com/1200x300.png?text=Plant+Disease+Detection+Model)
 
 Welcome to the Plant Disease Detection Model repository! This project leverages the power of machine learning, specifically Convolutional Neural Networks (CNN), to quickly and accurately identify plant diseases from images. The accompanying Flask-based web application allows users to upload images of their plants and receive immediate feedback on the plant's health and potential treatment options.
 
