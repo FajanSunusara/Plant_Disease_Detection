@@ -1,6 +1,3 @@
-Here's the README file code for the Plant Disease Detection Model repository in markdown format, including the actual URLs for icons and placeholder URLs for images:
-
-```markdown
 # Plant Disease Detection Model
 
 ![Plant Disease Detection](https://via.placeholder.com/1200x300.png?text=Plant+Disease+Detection+Model)
